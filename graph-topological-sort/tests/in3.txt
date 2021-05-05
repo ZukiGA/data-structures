@@ -1,0 +1,33 @@
+27
+31
+A D
+A B
+A F
+B C
+B F
+C I
+C K
+D B
+D E
+E J
+F G
+F H
+G H
+H I
+J K
+K L
+K M
+K O
+L P
+M P
+M N
+N T
+N S
+O N
+P Q
+P Y
+Q S
+T W
+T U
+U V
+Q Z
